@@ -1,7 +1,7 @@
 name: Loisnicholls
 favicon: null
 layout_spectrum: 0.3128925831988454
-typography_spectrum: 0.5148293164093047
+typography_spectrum: 0.99801
 title: 'Columns, articles and musings'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.32520907232537866
+    - '#f4feff'
+    - '#000105'
+    - '#aa9f7f'
+    - '#66190f'
+    - '#3d4d28'
+  brandStrength: 0.5
   lightness: 0.4374968260526657
   saturation: 0.2493540628347546
   rhythmicContrast: 0.3825627863407135
